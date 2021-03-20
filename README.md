@@ -1,6 +1,6 @@
 # bloomit
 
-Concurrent, Efficient, and Scalable Bloom Filters in Golang
+Concurrent, Efficient, and Scalable Bloom Filters in Go
 
 ## License
 

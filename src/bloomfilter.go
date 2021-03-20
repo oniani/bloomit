@@ -48,6 +48,5 @@ func (bf *BloomFilter) Check(data string) bool {
 			return false
 		}
 	}
-
 	return true
 }
